@@ -1,6 +1,6 @@
 - 👋 Hi, I am Nishika Abeytunge
 - 👀 I am looking forward to utilizing many years of experience in different industries to provide business solutions by analyzing data.
-- 🌱 I am currently learning Data Science/Machine Learning tools , including Python, VBA, MySql.
+- 🌱 I am currently pursuing Master in Information and Data Science at the University of California, Berkeley
 - 💞️ I am looking to collaborate on new developments, issues and projects in related to working with data. 
 - 📫 How to reach me at Linkedin https://www.linkedin.com/in/nishika-abeytunge-07199a15/
 
